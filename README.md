@@ -1,0 +1,4 @@
+# Build:
+
+Just run `$ make`
+
