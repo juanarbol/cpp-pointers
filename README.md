@@ -1,4 +1,4 @@
-# Build:
+# Build:
 
 Just run `$ make`
 
